@@ -3,7 +3,7 @@
 A KenKen puzzle game implemented in Python using Constraint Satisfaction Problem (CSP) techniques.
 
 # Prerequisites
-Python installed on your system
+Python installed on your system.
 Install the required library by running:
 `pip install pygame`
 
