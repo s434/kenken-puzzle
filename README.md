@@ -8,7 +8,7 @@ Install the required library by running:
 `pip install pygame`
 
 ### How to Run
-Clone the repository.  
-Navigate to the project directory.  
-Run the game with the following command:  
+1. Clone the repository:`https://github.com/s434/kenken-puzzle.git`.  
+2. Navigate to the project directory:`cd kenken-puzzle`.  
+3. Run the game with the following command:  
 `python gui.py`
